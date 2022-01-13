@@ -2,9 +2,9 @@
 
 *Prérequis : 
 - Python 3.*
-- Navigateur firefox (sinon vous douverez afficher les résultats obtenus manuellement en-ligne en ouvrant index.html que vous trouverez après l’exécution)\n
--Module Tkinter\n
--Module Folium\n
+- Navigateur firefox (sinon vous douverez afficher les résultats obtenus manuellement en-ligne en ouvrant index.html que vous trouverez après l’exécution)
+- Module Tkinter
+- Module Folium
 
 * Utilisation :
 	Préparez les images que vous voullez scanner dans le sous repertoire ./images	.

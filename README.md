@@ -1,7 +1,7 @@
 # GeoOFFON
 
 *Prérequis : 
-- Python 3.* \n
+- Python 3.*
 - Navigateur firefox (sinon vous douverez afficher les résultats obtenus manuellement en-ligne en ouvrant index.html que vous trouverez après l’exécution)\n
 -Module Tkinter\n
 -Module Folium\n

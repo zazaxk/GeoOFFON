@@ -1,6 +1,8 @@
 # GeoOFFON
 DESCRITION :
 	outil developpé en python pour geolocaliser des images (en algérie) a l'aide de métadatas en ligne et hors.
+	
+	
 *Prérequis : 
 - Python 3.*
 - Navigateur firefox (sinon vous douverez afficher les résultats obtenus manuellement en-ligne en ouvrant index.html que vous trouverez après l’exécution)
